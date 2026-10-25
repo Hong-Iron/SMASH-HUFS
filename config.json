@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "본관": {
+      "style": "stone",
+      "wall": "#ede8dc",
+      "glass": "#46625e",
+      "frame": "#d9cfc1"
+    },
+    "인문과학관": {
+      "style": "ribbon",
+      "wall": "#c9d0cd",
+      "glass": "#5f7f8a",
+      "frame": "#9eaaa8"
+    },
+    "도서관": {
+      "style": "glass",
+      "wall": "#5b5a50",
+      "glass": "#486378",
+      "frame": "#3c3c34"
+    },
+    "국제학사(신학생회관)": {
+      "style": "stone",
+      "wall": "#e1e2dd",
+      "glass": "#4d6c75",
+      "frame": "#c7c6c2"
+    },
+    "교수회관": {
+      "style": "stone",
+      "wall": "#959387",
+      "glass": "#3a4246",
+      "frame": "#7a766d"
+    },
+    "한국외국어대학교 대학원": {
+      "style": "stone",
+      "wall": "#ece6da",
+      "glass": "#4f5f66",
+      "frame": "#c8a682"
+    },
+    "사이버관": {
+      "style": "glass",
+      "wall": "#a3aaa6",
+      "glass": "#7d98a3",
+      "frame": "#736b68"
+    },
+    "국제관": {
+      "style": "stone",
+      "wall": "#eeeeec",
+      "glass": "#3f4c58",
+      "frame": "#d4d2d5"
+    },
+    "사회과학관": {
+      "style": "ribbon",
+      "wall": "#c8c9c1",
+      "glass": "#5a7a79",
+      "frame": "#6f7575"
+    },
+    "교수학습개발원": {
+      "style": "ribbon",
+      "wall": "#d1d0cc",
+      "glass": "#556c74",
+      "frame": "#8a9696"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
